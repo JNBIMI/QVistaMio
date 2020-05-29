@@ -1,4 +1,5 @@
-dv. 29/05/2020 10:47:19,35 
+dv. 29/05/2020 20:14:22,88 
+
 
 
 *Documentación complementaria y verbosa de algunas funciones de la clase QvMapeta 
@@ -101,3 +102,6 @@ paintEvent (que es quien pinta la caja y la cruz...)
    Read more [More] (file:///guies/DocModuls/QvMapeta/comprobacionesQvMapeta.md)
    
 > Written with [StackEdit](https://stackedit.io/).
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMzQ0NTY2MDQxXX0=
+-->
