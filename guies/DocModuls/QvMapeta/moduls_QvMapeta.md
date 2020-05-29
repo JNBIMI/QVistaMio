@@ -1,4 +1,6 @@
 dv. 29/05/2020 20:14:22,88 
+Editado en prePro dv. 29/05/2020 20:20
+
 
 
 
@@ -103,5 +105,5 @@ paintEvent (que es quien pinta la caja y la cruz...)
    
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ0NTY2MDQxXX0=
+eyJoaXN0b3J5IjpbLTE5NTQ3NDAxMDAsMzQ0NTY2MDQxXX0=
 -->
