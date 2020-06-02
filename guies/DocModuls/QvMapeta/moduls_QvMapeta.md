@@ -1,6 +1,7 @@
 02/06/2020  9:39 
+He encontrado problemas para sincronizar ficheros de 
 Editado con stackEdit, sincronizado a carpeta D:\ **qVistaMio**\guies\DocModuls\QvMapeta
-Una vex comprobado que todo funciona correctamente, habrá que copiar 
+Una vex comprobado que todo funciona correctamente, habrá que copiar todos los ficheros de la carpeta a D:\ **qVista**\guies\DocModuls\QvMapeta y subirlos a GitHub con Visualcode
 
 *Documentación complementaria y verbosa de algunas funciones de la clase QvMapeta 
 
@@ -98,6 +99,6 @@ paintEvent (que es quien pinta la caja y la cruz...)
    
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5MzkzODI1OCwyMDQxMjAzMzA0LC0xMz
+eyJoaXN0b3J5IjpbMTE3NDYwMTAzMSwyMDQxMjAzMzA0LC0xMz
 AxOTgwMTM0LC0xOTU0NzQwMTAwLDM0NDU2NjA0MV19
 -->
