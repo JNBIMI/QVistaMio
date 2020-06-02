@@ -7,8 +7,7 @@
 > clonado qVista, como qVistaMio en local. Editaré los ficheros y los
 > reemplazaré en qVista.
 > 
-> Editado con stackEdit, sincronizado a carpeta D:\
-> **qVistaMio**\guies\DocModuls\QvMapeta Una vex comprobado que todo funciona correctamente, habrá que copiar todos los ficheros de la
+> Editado con stackEdit, sincronizado a carpeta D:\ **qVistaMio**\guies\DocModuls\QvMapeta Una vex comprobado que todo funciona correctamente, habrá que copiar todos los ficheros de la
 > carpeta a D:\ **qVista**\guies\DocModuls\QvMapeta y subirlos a GitHub
 > con Visualcode
 
@@ -108,6 +107,6 @@ paintEvent (que es quien pinta la caja y la cruz...)
    
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2ODQ0NjQsMjA0MTIwMzMwNCwtMTMwMT
-k4MDEzNCwtMTk1NDc0MDEwMCwzNDQ1NjYwNDFdfQ==
+eyJoaXN0b3J5IjpbNzc5MzA3MTg2LDIwNDEyMDMzMDQsLTEzMD
+E5ODAxMzQsLTE5NTQ3NDAxMDAsMzQ0NTY2MDQxXX0=
 -->
