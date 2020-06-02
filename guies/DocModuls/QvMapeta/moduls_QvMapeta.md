@@ -1,8 +1,16 @@
 02/06/2020  9:39 
-He encontrado problemas para sincronizar ficheros de D:\qVista\guies\DocModuls\QvMapeta con GitHub. Despues de bastantes pruebas creo que debe ser un problema de settings de GitHub de SistemesInformacioTerritorial\qVista.
-Para puentear el problema he clonado qVista, como qVistaMio en local. Editaré los ficheros y los reemplazaré en qVista.
-Editado con stackEdit, sincronizado a carpeta D:\ **qVistaMio**\guies\DocModuls\QvMapeta
-Una vex comprobado que todo funciona correctamente, habrá que copiar todos los ficheros de la carpeta a D:\ **qVista**\guies\DocModuls\QvMapeta y subirlos a GitHub con Visualcode
+
+> He encontrado problemas para sincronizar ficheros de
+> D:\qVista\guies\DocModuls\QvMapeta con GitHub. Despues de bastantes
+> pruebas creo que debe ser un problema de settings de GitHub de
+> SistemesInformacioTerritorial\qVista. Para puentear el problema he
+> clonado qVista, como qVistaMio en local. Editaré los ficheros y los
+> reemplazaré en qVista.
+> 
+> Editado con stackEdit, sincronizado a carpeta D:\
+> **qVistaMio**\guies\DocModuls\QvMapeta Una vex comprobado que todo funciona correctamente, habrá que copiar todos los ficheros de la
+> carpeta a D:\ **qVista**\guies\DocModuls\QvMapeta y subirlos a GitHub
+> con Visualcode
 
 *Documentación complementaria y verbosa de algunas funciones de la clase QvMapeta 
 
@@ -100,6 +108,6 @@ paintEvent (que es quien pinta la caja y la cruz...)
    
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg4ODk5NDEwLDIwNDEyMDMzMDQsLTEzMD
-E5ODAxMzQsLTE5NTQ3NDAxMDAsMzQ0NTY2MDQxXX0=
+eyJoaXN0b3J5IjpbLTc2ODQ0NjQsMjA0MTIwMzMwNCwtMTMwMT
+k4MDEzNCwtMTk1NDc0MDEwMCwzNDQ1NjYwNDFdfQ==
 -->
