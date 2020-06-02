@@ -1,11 +1,8 @@
-dv. 29/05/2020 20:14:22,88 
-Editado en prePro dv. 29/05/2020 20:20
-
-
-
+02/06/2020  9:39 
+Editado cons
 
 *Documentación complementaria y verbosa de algunas funciones de la clase QvMapeta 
-(como excusa para aprender Markdown)*
+
 
 # QvMapeta in module moduls.QvMapeta:
 QvMapeta define un pequeño mapa de posicionamiento que controla un canvas.
@@ -100,6 +97,6 @@ paintEvent (que es quien pinta la caja y la cruz...)
    
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NzE4MTg1MiwyMDQxMjAzMzA0LC0xMz
+eyJoaXN0b3J5IjpbMjA1ODE2MTU3OCwyMDQxMjAzMzA0LC0xMz
 AxOTgwMTM0LC0xOTU0NzQwMTAwLDM0NDU2NjA0MV19
 -->
