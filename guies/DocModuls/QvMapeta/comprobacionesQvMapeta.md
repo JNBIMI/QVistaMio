@@ -9,14 +9,14 @@ La clase QvMapeta realiza calculos geometricos dificiles de seguir sin una repre
 
 ## Ficheros de esa carpeta
 
--  ### ComprobacionesMapeta.dgn
+### ComprobacionesMapeta.dgn
 
 DGN donde se representaran los calculos.
 Tiene referenciado como raster fondo_Barcelona.png, (2 veces) en: 
- - coordenadas 0,0   --> 600,600
- - coordenadas xmin,ymin  --> xmax, ymax
+   - coordenadas 0,0   --> 600,600
+   - coordenadas xmin,ymin  --> xmax, ymax
 
-- ### fondo_Barcelona.pgn
+### fondo_Barcelona.pgn
 png con la informacion raster de Barcelona
 tamaño 600 x 600
 corresponde al rango:
@@ -44,5 +44,5 @@ Fichero vba, escrito por QvMapeta_vba.py, que dibuja en el DGN los calculos.
 		- Buscar D:\qVista\Codi\guies\DocModuls\QvMapeta\cm.bas
 		- Ejecutar o editar (para poder ir paso a paso)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1Mjk4NjI4NV19
+eyJoaXN0b3J5IjpbMTExNzc2MjU2MV19
 -->
