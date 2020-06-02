@@ -101,10 +101,13 @@ paintEvent (que es quien pinta la caja y la cruz...)
    
    
   
-  kk Comprobaciones [] (./comprobacionesQ[More] (.md)
+
+
+Read more [here](./comprobaciones.md)
+
    
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDE5ODAxMzQsLTE5NTQ3NDAxMDAsMz
-Q0NTY2MDQxXX0=
+eyJoaXN0b3J5IjpbLTY5NDYyNTE1MSwtMTMwMTk4MDEzNCwtMT
+k1NDc0MDEwMCwzNDQ1NjYwNDFdfQ==
 -->
