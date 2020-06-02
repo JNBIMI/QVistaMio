@@ -70,7 +70,7 @@ Casos|mousePress  |mouseMove  |mouseRelease  |Comportamiento | Destinatario fina
  - **canvas.setExtent() forzará  [pintarMapeta](#pintarMapeta)** 
  - **repaint de mapeta para forzar  [paintEvent](#paintEvent)** (pintar rectangulo y cruz)
  - 
-Comprobaci [here](./comprobacionesQvMapeta.md)    
+[Comprobaciones calculos](./comprobacionesQvMapeta.md)    
 
 ## paintEvent
 - Pinta en mapeta rectangulo y cruz.
@@ -101,6 +101,6 @@ paintEvent (que es quien pinta la caja y la cruz...)
    
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0Njg2Nzc2MywtMTMwMTk4MDEzNCwtMT
+eyJoaXN0b3J5IjpbMjA0MTIwMzMwNCwtMTMwMTk4MDEzNCwtMT
 k1NDc0MDEwMCwzNDQ1NjYwNDFdfQ==
 -->
