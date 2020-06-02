@@ -7,6 +7,8 @@ La clase QvMapeta realiza calculos geometricos dificiles de seguir sin una repre
 ## Ubicación de ficheros
  - D:\qVista\Codi\guies\DocModuls\QvMapeta
 
+## Ficheros de 
+
 ## ComprobacionesMapeta.dgn
 DGN donde se representaran los calculos.
 Tiene referenciado como raster fondo_Barcelona.png, (2 veces) en: 
@@ -40,3 +42,6 @@ Fichero vba, escrito por QvMapeta_vba.py, que dibuja en el DGN los calculos.
 		- Utilidades >> Macros >>  Microstation BASIC >> Examinar
 		- Buscar D:\qVista\Codi\guies\DocModuls\QvMapeta\cm.bas
 		- Ejecutar o editar (para poder ir paso a paso)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEzMjkzNTYzMTFdfQ==
+-->
