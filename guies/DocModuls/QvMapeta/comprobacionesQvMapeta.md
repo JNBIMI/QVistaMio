@@ -43,6 +43,9 @@ Fichero vba, escrito por QvMapeta_vba.py, que dibuja en el DGN los calculos.
 		- Utilidades >> Macros >>  Microstation BASIC >> Examinar
 		- Buscar D:\qVista\Codi\guies\DocModuls\QvMapeta\cm.bas
 		- Ejecutar o editar (para poder ir paso a paso)
+
+## Como trabaja
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMTY0MzU0Nl19
+eyJoaXN0b3J5IjpbLTg0OTM0NjQ5MSwxNzIxNjQzNTQ2XX0=
 -->
