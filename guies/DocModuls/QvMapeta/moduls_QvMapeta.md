@@ -75,7 +75,7 @@ Casos|mousePress  |mouseMove  |mouseRelease  |Comportamiento | Destinatario fina
  - Si el mapeta esta girado, hay que rotar esas coordenadas (en función de la rotación) para tenerlas en "mapeta 0º" y a partir de ahí buscar su correspondientes coordenadas mundo.
  - **canvas.setExtent() forzará  [pintarMapeta](#pintarMapeta)** 
  - **repaint de mapeta para forzar  [paintEvent](#paintEvent)** (pintar rectangulo y cruz)
- - 
+ 
 [Comprobaciones calculos](./comprobacionesQvMapeta.md)    
 
 ## paintEvent
@@ -94,7 +94,7 @@ Casos|mousePress  |mouseMove  |mouseRelease  |Comportamiento | Destinatario fina
 - Se invoca cuando cambian el tamaño del canvas y cuando hay una   rotacion del canvas
   -  Despues de seleccionar una ventana en el mapeta, se actualiza   la cartografia correspondiente  en el canvas, y se adapta alas proporciones del canvas (estado inicial y  redimensionamientos).
        
- >Estás proporciones serán diferentes a las de la ventana  del mapeta (nuestra seleccion) y por lo tanto debemos recalcular la ventana del mapeta representando sobre éste el area de cartografia visible y una cruz que indica el centro
+Estás proporciones serán diferentes a las de la ventana  del mapeta (nuestra seleccion) y por lo tanto debemos recalcular la ventana del mapeta representando sobre éste el area de cartografia visible y una cruz que indica el centro
   
 Esta funcion calcula unas coordenadas para que trabaje el 
 paintEvent (que es quien pinta la caja y la cruz...)
@@ -107,6 +107,6 @@ paintEvent (que es quien pinta la caja y la cruz...)
    
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc5MzA3MTg2LDIwNDEyMDMzMDQsLTEzMD
+eyJoaXN0b3J5IjpbMzAwMjA4MTI5LDIwNDEyMDMzMDQsLTEzMD
 E5ODAxMzQsLTE5NTQ3NDAxMDAsMzQ0NTY2MDQxXX0=
 -->
