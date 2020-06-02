@@ -57,7 +57,7 @@ Casos|mousePress  |mouseMove  |mouseRelease  |Comportamiento | Destinatario fina
 - **ejecuta repaint de mapeta para forzar [paintEvent](#paintEvent)**  (que pintará rectángulo y cruz)
 
 ## mouseReleaseEvent
- - Dejamos de hacer presión sobre un botón del ratón mientras está sobre mapeta
+ - Dejamos de hacer presión sobre un botón del ratón mientras está sobre mapeta. Si el cursor esta:
 	- Dentro del circulo inscrito: 
 		- Se puede esta dando punto final de windowArea  -->  casos 1, 3
 		- Se está dando punto final de windowCenter --> caso 2
@@ -100,6 +100,6 @@ paintEvent (que es quien pinta la caja y la cruz...)
    
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjM2NDg5NjYsMjA0MTIwMzMwNCwtMT
-MwMTk4MDEzNCwtMTk1NDc0MDEwMCwzNDQ1NjYwNDFdfQ==
+eyJoaXN0b3J5IjpbLTY3NzE4MTg1MiwyMDQxMjAzMzA0LC0xMz
+AxOTgwMTM0LC0xOTU0NzQwMTAwLDM0NDU2NjA0MV19
 -->
