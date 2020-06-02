@@ -46,6 +46,9 @@ Fichero vba, escrito por QvMapeta_vba.py, que dibuja en el DGN los calculos.
 
 ## Como trabaja
 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0OTM0NjQ5MSwxNzIxNjQzNTQ2XX0=
+eyJoaXN0b3J5IjpbLTE2MzkwODAyODcsLTg0OTM0NjQ5MSwxNz
+IxNjQzNTQ2XX0=
 -->
