@@ -8,8 +8,7 @@ Editado en prePro dv. 29/05/2020 20:20
 (como excusa para aprender Markdown)*
 
 # QvMapeta in module moduls.QvMapeta:
-QvMapeta define un pequeño mapa de posicionamiento que controla un 
-canvas.
+QvMapeta define un pequeño mapa de posicionamiento que controla un canvas.
 
 ### Triggers:
 | Event| Ejecuta
@@ -101,6 +100,6 @@ paintEvent (que es quien pinta la caja y la cruz...)
    
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MTIwMzMwNCwtMTMwMTk4MDEzNCwtMT
-k1NDc0MDEwMCwzNDQ1NjYwNDFdfQ==
+eyJoaXN0b3J5IjpbLTE3MjM2NDg5NjYsMjA0MTIwMzMwNCwtMT
+MwMTk4MDEzNCwtMTk1NDc0MDEwMCwzNDQ1NjYwNDFdfQ==
 -->
