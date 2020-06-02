@@ -1,5 +1,6 @@
 02/06/2020  9:39 
-Editado cons
+Editado con stackEdit, sincronizado a carpeta D:\ **qVistaMio**\guies\DocModuls\QvMapeta
+Una vex comprobado que todo funciona correctamente, habrá que copiar 
 
 *Documentación complementaria y verbosa de algunas funciones de la clase QvMapeta 
 
@@ -97,6 +98,6 @@ paintEvent (que es quien pinta la caja y la cruz...)
    
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1ODE2MTU3OCwyMDQxMjAzMzA0LC0xMz
+eyJoaXN0b3J5IjpbLTQ5MzkzODI1OCwyMDQxMjAzMzA0LC0xMz
 AxOTgwMTM0LC0xOTU0NzQwMTAwLDM0NDU2NjA0MV19
 -->
