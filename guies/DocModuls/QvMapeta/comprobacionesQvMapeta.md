@@ -23,7 +23,7 @@ corresponde al rango:
 xmin,ymin:   xy= 419514.49,4573673.32
 xmax,ymax: xy= 437653.75, 4591812.58
 
--  ### fondo_Barcelona.pgw
+### fondo_Barcelona.pgw
 Georeferenciación de fondo_Barcelona.pgn (World file)
 [https://en.wikipedia.org/wiki/World_file](https://en.wikipedia.org/wiki/World_file)
 
@@ -44,5 +44,5 @@ Fichero vba, escrito por QvMapeta_vba.py, que dibuja en el DGN los calculos.
 		- Buscar D:\qVista\Codi\guies\DocModuls\QvMapeta\cm.bas
 		- Ejecutar o editar (para poder ir paso a paso)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNzc2MjU2MV19
+eyJoaXN0b3J5IjpbMTcyMTY0MzU0Nl19
 -->
