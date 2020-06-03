@@ -97,7 +97,7 @@ paintEvent (que es quien pinta la caja y la cruz...)
 
 
    
- Más info [Comprobaciones] (/comprobacionesQvMapeta.md)
+ Más info [Comprobaciones](/comprobacionesQvMapeta.md)
    
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
