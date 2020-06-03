@@ -99,13 +99,12 @@ CAJA VERDE MUNDO
 
 &quot;Expansión&quot; de la caja violeta de modo que la caja azul sea su rango. Es lo que se verá en el canvas.
 
-![Fig14](./fig14.png)
+
 
 CAJA ROJA MAPETA
 
 Proceso marcha atras: Recalculamos un area mapeta de &quot;respuesta&quot; que refleja lo que se ve en el canvas.
-
-![](RackMultipart20200603-4-t1eluy_html_33a8c8f43bebf257.png)
+![Fig14](./fig14.png)
 
 FECHA: 02/06/2020 8:43
 
@@ -113,5 +112,5 @@ FECHA: 02/06/2020 8:43
 
 ![](RackMultipart20200603-4-t1eluy_html_ad672b8eaf7b0594.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQyMjk4MDc3LDEyNDcyMjYyNzJdfQ==
+eyJoaXN0b3J5IjpbMTE5MTMwNjk0MSwxMjQ3MjI2MjcyXX0=
 -->
