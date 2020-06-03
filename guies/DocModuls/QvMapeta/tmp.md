@@ -49,13 +49,13 @@ Las coordenadas de este area deseada se almacenan en:
 
 self.xIn, self.yIn, self.xFi, self.yFi
 
-![](RackMultipart20200603-4-t1eluy_html_a56ca44da774d858.png)
+![Fig05](./fig05.png)
 
 MARRON MAPETA
 
 self.xIn, self.yIn,
 
-![](RackMultipart20200603-4-t1eluy_html_2872e6b6bab91be0.png)
+![Fig07](./fig07.png)
 
 VERDE MAPETA
 
@@ -65,13 +65,13 @@ El punto arriba-izquierda del area &quot;deseada&quot;(punto marron) se desrota 
 
 self.xIn\_ self.yIn\_
 
-![](RackMultipart20200603-4-t1eluy_html_45bc7fc19a70cb9f.png)
+![Fig08](./fig08.png)
 
 VIOLETA MUNDO
 
 Punto rotado a mundo. Para ver la correspondencia dibujo linea negra discontinua.
 
-![](RackMultipart20200603-4-t1eluy_html_5ce34d84de0590eb.png)
+![Fig09](./fig09.png)
 
 VIOLETA MUNDO
 
@@ -79,7 +79,7 @@ Desde punto rotado mundo construccion de caja,escalada, equivalente a la realiza
 
 Es el area mundo &quot;deseado&quot;
 
-![](RackMultipart20200603-4-t1eluy_html_dc8b8e2388a58ccd.png)
+![Fig01](./fig01.png)
 
 AMARILLO y AZUL MUNDO
 
@@ -113,5 +113,5 @@ FECHA: 02/06/2020 8:43
 
 ![](RackMultipart20200603-4-t1eluy_html_ad672b8eaf7b0594.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY3Njc5NjM0LDEyNDcyMjYyNzJdfQ==
+eyJoaXN0b3J5IjpbMTIyNzg0MDAwOSwxMjQ3MjI2MjcyXX0=
 -->
