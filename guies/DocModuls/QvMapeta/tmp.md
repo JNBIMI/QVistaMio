@@ -4,7 +4,7 @@ FECHA: 02/06/2020 10:01
 
 Situacion inicial:
 
-![](RackMultipart20200603-4-t1eluy_html_915c6d5938c7f6e1.png)
+![](/Fig01.png)
 
 Situacion final:
 
