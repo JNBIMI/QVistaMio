@@ -1,17 +1,17 @@
 ﻿FECHA: 03/06/2020 5:39
-Más info [Comprobaciones](./comprobacionesQvMapeta.md)    
 
 FECHA: 02/06/2020 10:01
 
 Situacion inicial:
 
-![](RackMultipart20200603-4-t1eluy_html_915c6d5938c7f6e1.png)
+![](./fig01.png)
+
 
 Situacion final:
 
 **He hecho una ventana**
 
-![](./Fig01.png)
+
 
 
 
