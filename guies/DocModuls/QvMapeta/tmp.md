@@ -11,7 +11,8 @@ Situacion final:
 
 **He hecho una ventana**
 
-![](RackMultipart20200603-4-t1eluy_html_675acfb2398a9db9.png)
+![Fig01](./Fig01.png)
+[Comprobaciones calculos](./comprobacionesQvMapeta.md)    
 
 Miro en carpeta:
 
