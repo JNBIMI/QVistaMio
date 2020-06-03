@@ -79,7 +79,7 @@ Desde punto rotado mundo construccion de caja,escalada, equivalente a la realiza
 
 Es el area mundo &quot;deseado&quot;
 
-![Fig01](./fig01.png)
+![Fig10](./fig10.png)
 
 AMARILLO y AZUL MUNDO
 
@@ -87,19 +87,19 @@ Estos puntos sosn el rango del area mundo deseado
 
 Se las pasamos al canvas via setExtend
 
-![](RackMultipart20200603-4-t1eluy_html_e84899a2a8e45337.png)
+![Fig12](./fig12.png)
 
 CAJA AZUL MUNDO
 
 Qgis hace sus calculos en funcion de las proporciones del canvas y nos retorna su area &quot;respuesta&quot;
 
-![](RackMultipart20200603-4-t1eluy_html_12e83348caeb2e29.png)
+![Fig13](./fig13.png)
 
 CAJA VERDE MUNDO
 
 &quot;Expansión&quot; de la caja violeta de modo que la caja azul sea su rango. Es lo que se verá en el canvas.
 
-![](RackMultipart20200603-4-t1eluy_html_cf0dee5fdcfe4805.png)
+![Fig14](./fig14.png)
 
 CAJA ROJA MAPETA
 
@@ -113,5 +113,5 @@ FECHA: 02/06/2020 8:43
 
 ![](RackMultipart20200603-4-t1eluy_html_ad672b8eaf7b0594.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNzg0MDAwOSwxMjQ3MjI2MjcyXX0=
+eyJoaXN0b3J5IjpbNjQyMjk4MDc3LDEyNDcyMjYyNzJdfQ==
 -->
