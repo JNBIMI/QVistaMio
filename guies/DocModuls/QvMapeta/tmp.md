@@ -12,7 +12,7 @@ Situacion final:
 **He hecho una ventana**
 
 
-
+![Fig02](./fig02.png)
 
 
 [Comprobaciones calculos](./comprobacionesQvMapeta.md)    
@@ -25,11 +25,11 @@ Entro en microstation
 
 Abro D:\qVista\Codi\guies\DocModuls\QvMapeta\ComprobacionesMapeta.dgn
 
-Buco cm.bas para ejecutarlo paso a paso
+Busco cm.bas para ejecutarlo paso a paso
 
-![](RackMultipart20200603-4-t1eluy_html_d195c598900518f8.png)
 
-![](RackMultipart20200603-4-t1eluy_html_b880bbdd698517b.png)
+![Fig03](./fig03.png)
+![Fig04](./fig04.png)
 
 Ejecuto paso a paso:
 
@@ -113,5 +113,5 @@ FECHA: 02/06/2020 8:43
 
 ![](RackMultipart20200603-4-t1eluy_html_ad672b8eaf7b0594.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NzIyNjI3Ml19
+eyJoaXN0b3J5IjpbNTY3Njc5NjM0LDEyNDcyMjYyNzJdfQ==
 -->
