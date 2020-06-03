@@ -11,7 +11,10 @@ Situacion final:
 
 **He hecho una ventana**
 
-![Fig01](./Fig01.png)
+![](./Fig01.png)
+
+
+
 [Comprobaciones calculos](./comprobacionesQvMapeta.md)    
 
 Miro en carpeta:
