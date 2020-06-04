@@ -24,6 +24,7 @@
 
 ---
 Ficheros del directorio:
+
 ![Fig01](./Ficheros.png)
 
 <!--stackedit_data:
