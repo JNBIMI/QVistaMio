@@ -50,7 +50,9 @@ Situacion inicial:
 ![Fig01](./fig01.png)
 
 Situacion final:
+
 **He hecho una ventana**
+
 ![Fig02](./fig02.png)
 
 [Comprobaciones calculos](./comprobacionesQvMapeta.md)    
@@ -58,19 +60,15 @@ Situacion final:
 Miro en carpeta:
 Si he operado correctamente con el botón SI logMst, se habrá generado el fichero D:\qVista\Codi\guies\DocModuls\QvMapeta\cm.bas
 
-
 Entro en microstation
 
-
 Abro D:\qVista\Codi\guies\DocModuls\QvMapeta\ComprobacionesMapeta.dgn
-
 
 Busco cm.bas para ejecutarlo paso a paso
 
 
-
-
 ![Fig03](./fig03.png)
+
 ![Fig04](./fig04.png)
 
 
@@ -192,6 +190,6 @@ Proceso marcha atras: Recalculamos un area mapeta de &quot;respuesta&quot; que r
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Mzk3NTc3MzUsLTE3MjExOTA0MjEsLT
-E2MzkwODAyODcsLTg0OTM0NjQ5MSwxNzIxNjQzNTQ2XX0=
+eyJoaXN0b3J5IjpbLTkzNjEzMDk1NSwtMTcyMTE5MDQyMSwtMT
+YzOTA4MDI4NywtODQ5MzQ2NDkxLDE3MjE2NDM1NDZdfQ==
 -->
