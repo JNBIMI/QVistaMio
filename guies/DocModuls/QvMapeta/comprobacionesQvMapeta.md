@@ -46,6 +46,7 @@ Fichero vba, escrito por QvMapeta_vba.py, que dibuja en el DGN los calculos.
 
 ## Como trabaja
 Situacion inicial:
+
 ![Fig01](./fig01.png)
 
 Situacion final:
@@ -191,6 +192,6 @@ Proceso marcha atras: Recalculamos un area mapeta de &quot;respuesta&quot; que r
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjExOTA0MjEsLTE2MzkwODAyODcsLT
-g0OTM0NjQ5MSwxNzIxNjQzNTQ2XX0=
+eyJoaXN0b3J5IjpbLTE3Mzk3NTc3MzUsLTE3MjExOTA0MjEsLT
+E2MzkwODAyODcsLTg0OTM0NjQ5MSwxNzIxNjQzNTQ2XX0=
 -->
