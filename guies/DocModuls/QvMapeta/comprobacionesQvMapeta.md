@@ -55,7 +55,7 @@ Situacion final:
 
 ![Fig02](./fig02.png)
 
-[Comprobaciones calculos](./comprobacionesQvMapeta.md)    
+#[Comprobaciones calculos](./comprobacionesQvMapeta.md)    
 
 Miro en carpeta:
 Si he operado correctamente con el botón SI logMst, se habrá generado el fichero D:\qVista\Codi\guies\DocModuls\QvMapeta\cm.bas
@@ -159,7 +159,7 @@ Proceso marcha atras: Recalculamos un area mapeta de &quot;respuesta&quot; que r
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5NjczNjE1NywtMTgxNTcwNzU4NiwtMT
-cyMTE5MDQyMSwtMTYzOTA4MDI4NywtODQ5MzQ2NDkxLDE3MjE2
-NDM1NDZdfQ==
+eyJoaXN0b3J5IjpbLTE2Nzc4NjI5NDgsMTM5NjczNjE1NywtMT
+gxNTcwNzU4NiwtMTcyMTE5MDQyMSwtMTYzOTA4MDI4NywtODQ5
+MzQ2NDkxLDE3MjE2NDM1NDZdfQ==
 -->
