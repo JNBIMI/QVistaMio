@@ -3,10 +3,12 @@
 Ficheros del directorio:
 ![Fig01](./Ficheros.png)
 
+---
 ### Documentación:
 *moduls.QvMapeta.md*  -->  Doc verbosa de QvMapeta
 comprobacionesQvMapeta.md  --> Cómo se conecta mapeta con mundo
 
+---
 ### Ficheros auxiliares:
 *fig*.png* --> imagenes para ilustrar MD's
 
@@ -14,6 +16,7 @@ comprobacionesQvMapeta.md  --> Cómo se conecta mapeta con mundo
 *fondo_Barcelona.pgw*  --> datos georeferenciacion del png. Tamaño, rango...
 *rng_BCN.png*  -->datos de rango del mapeta, 
 
+---
 ### Ficheros para ejecucion de pruebas
 *comprobacionesMapeta.dgn*  --> 
 
@@ -21,5 +24,5 @@ comprobacionesQvMapeta.md  --> Cómo se conecta mapeta con mundo
 
 *CM.bas*  --> escrito por version de desarrollo de QvMapeta. Son los calculos que realiza el programa, transcritos de modo que se puedan representar en un DGNPara representar las pruebas:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMjM5NTQxOCwxODIxMzM4ODUyXX0=
+eyJoaXN0b3J5IjpbLTIwNTgzMzI4NDcsMTgyMTMzODg1Ml19
 -->
