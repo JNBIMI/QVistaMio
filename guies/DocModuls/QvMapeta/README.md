@@ -1,7 +1,5 @@
 ## Qué es qué...
 
-Ficheros del directorio:
-![Fig01](./Ficheros.png)
 
 ---
 ### Documentación:
@@ -23,7 +21,12 @@ Ficheros del directorio:
 
 
 
-*CM.bas*  --> escrito por version de desarrollo de QvMapeta. Son los calculos que realiza el programa, transcritos de modo que se puedan representar en un DGNPara representar las pruebas:
+*CM.bas*  --> escrito por version de desarrollo de QvMapeta. Son los calculos que realiza el programa, transcritos de modo que se puedan representar en un DGN.
+
+
+Ficheros del directorio:
+![Fig01](./Ficheros.png)
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTIxMDI1NTA1OTEsMTgyMTMzODg1Ml19
 -->
