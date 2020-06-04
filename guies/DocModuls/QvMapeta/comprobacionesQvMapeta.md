@@ -1,5 +1,6 @@
 <!-- para comentarios
 -->
+[Ir Comprobaciones calculos](./moduls.QvMapeta.md)   ﻿
 ﻿
 #  comprobacion de calculos en QvMapeta
 
@@ -161,7 +162,8 @@ Proceso marcha atras: Recalculamos un area mapeta de &quot;respuesta&quot; que r
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA4NDQyODY2LC0xNjc3ODYyOTQ4LDEzOT
-Y3MzYxNTcsLTE4MTU3MDc1ODYsLTE3MjExOTA0MjEsLTE2Mzkw
-ODAyODcsLTg0OTM0NjQ5MSwxNzIxNjQzNTQ2XX0=
+eyJoaXN0b3J5IjpbLTk4NTM0OTU4MCw0MDg0NDI4NjYsLTE2Nz
+c4NjI5NDgsMTM5NjczNjE1NywtMTgxNTcwNzU4NiwtMTcyMTE5
+MDQyMSwtMTYzOTA4MDI4NywtODQ5MzQ2NDkxLDE3MjE2NDM1ND
+ZdfQ==
 -->
