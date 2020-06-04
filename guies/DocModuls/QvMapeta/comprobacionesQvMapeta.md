@@ -138,7 +138,9 @@ Qgis hace sus calculos en funcion de las proporciones del canvas y nos retorna s
 
 &quot;Expansión&quot; de la caja violeta de modo que la caja azul sea su rango. Es lo que se verá en el canvas.
 
-**CAJA ROJA MAPETA**
+___
+
+*CAJA ROJA MAPETA*
 
 Proceso marcha atras: Recalculamos un area mapeta de &quot;respuesta&quot; que refleja lo que se ve en el canvas.
 
@@ -150,6 +152,7 @@ Proceso marcha atras: Recalculamos un area mapeta de &quot;respuesta&quot; que r
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTU3MDc1ODYsLTE3MjExOTA0MjEsLT
-E2MzkwODAyODcsLTg0OTM0NjQ5MSwxNzIxNjQzNTQ2XX0=
+eyJoaXN0b3J5IjpbMTY3NzU1ODE1NywtMTgxNTcwNzU4NiwtMT
+cyMTE5MDQyMSwtMTYzOTA4MDI4NywtODQ5MzQ2NDkxLDE3MjE2
+NDM1NDZdfQ==
 -->
