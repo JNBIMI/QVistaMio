@@ -1,4 +1,7 @@
-﻿# comprobacion de calculos en QvMapeta
+<!-- para comentarios
+-->
+﻿
+#  comprobacion de calculos en QvMapeta
 
 ## Idea general
 La clase QvMapeta realiza calculos geometricos dificiles de seguir sin una representación grafica. La versión de desarrollo QvMapeta_vba.py va escribiendo los resultados de los cálculos en el fichero CM.bas que microstation es capaz de ejecutar.
@@ -55,8 +58,6 @@ Situacion final:
 
 ![Fig02](./fig02.png)
 
-<!-- 
--->
 
 Miro en carpeta:
 Si he operado correctamente con el botón SI logMst, se habrá generado el fichero D:\qVista\Codi\guies\DocModuls\QvMapeta\cm.bas
@@ -160,7 +161,7 @@ Proceso marcha atras: Recalculamos un area mapeta de &quot;respuesta&quot; que r
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNjc0Njc5NiwtMTY3Nzg2Mjk0OCwxMz
-k2NzM2MTU3LC0xODE1NzA3NTg2LC0xNzIxMTkwNDIxLC0xNjM5
-MDgwMjg3LC04NDkzNDY0OTEsMTcyMTY0MzU0Nl19
+eyJoaXN0b3J5IjpbNDA4NDQyODY2LC0xNjc3ODYyOTQ4LDEzOT
+Y3MzYxNTcsLTE4MTU3MDc1ODYsLTE3MjExOTA0MjEsLTE2Mzkw
+ODAyODcsLTg0OTM0NjQ5MSwxNzIxNjQzNTQ2XX0=
 -->
