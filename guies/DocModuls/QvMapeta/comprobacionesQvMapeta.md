@@ -78,7 +78,7 @@ Opcion EDITAR y Ejecuto paso a paso:
 
 **mouseReleaseEvent**
 
-ROJO MAPETA
+*ROJO MAPETA*
 
 Dibujamos area a representar sobre el mapeta.
 
@@ -90,13 +90,13 @@ self.xIn, self.yIn, self.xFi, self.yFi
 
 ![Fig05](./fig05.png)
 
-MARRON MAPETA
+*MARRON MAPETA*
 
 self.xIn, self.yIn,
 
 ![Fig07](./fig07.png)
 
-VERDE MAPETA
+*VERDE MAPETA*
 
 Punto inicio rotado hasta 0º
 
@@ -150,6 +150,6 @@ Proceso marcha atras: Recalculamos un area mapeta de &quot;respuesta&quot; que r
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1ODQ3OTUyMSwtMTcyMTE5MDQyMSwtMT
-YzOTA4MDI4NywtODQ5MzQ2NDkxLDE3MjE2NDM1NDZdfQ==
+eyJoaXN0b3J5IjpbODE5MDQ1Njk5LC0xNzIxMTkwNDIxLC0xNj
+M5MDgwMjg3LC04NDkzNDY0OTEsMTcyMTY0MzU0Nl19
 -->
