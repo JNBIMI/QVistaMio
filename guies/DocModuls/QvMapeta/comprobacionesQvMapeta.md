@@ -106,13 +106,13 @@ self.xIn\_ self.yIn\_
 
 ![Fig08](./fig08.png)
 
-VIOLETA MUNDO
+*VIOLETA MUNDO*
 
 Punto rotado a mundo. Para ver la correspondencia dibujo linea negra discontinua.
 
 ![Fig09](./fig09.png)
 
-VIOLETA MUNDO
+CAJA VIOLETA MUNDO
 
 Desde punto rotado mundo construccion de caja,escalada, equivalente a la realizada en mapeta. Estará rotada.
 
@@ -120,7 +120,7 @@ Es el area mundo &quot;deseado&quot;
 
 ![Fig10](./fig10.png)
 
-AMARILLO y AZUL MUNDO
+*AMARILLO y AZUL MUNDO*
 
 Estos puntos sosn el rango del area mundo deseado
 
@@ -128,17 +128,17 @@ Se las pasamos al canvas via setExtend
 
 ![Fig12](./fig12.png)
 
-CAJA AZUL MUNDO
+*CAJA AZUL MUNDO*
 
 Qgis hace sus calculos en funcion de las proporciones del canvas y nos retorna su area &quot;respuesta&quot;
 
 ![Fig13](./fig13.png)
 
-CAJA VERDE MUNDO
+*CAJA VERDE MUNDO*
 
 &quot;Expansión&quot; de la caja violeta de modo que la caja azul sea su rango. Es lo que se verá en el canvas.
 
-CAJA ROJA MAPETA
+**CAJA ROJA MAPETA**
 
 Proceso marcha atras: Recalculamos un area mapeta de &quot;respuesta&quot; que refleja lo que se ve en el canvas.
 
@@ -150,6 +150,6 @@ Proceso marcha atras: Recalculamos un area mapeta de &quot;respuesta&quot; que r
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE5MDQ1Njk5LC0xNzIxMTkwNDIxLC0xNj
-M5MDgwMjg3LC04NDkzNDY0OTEsMTcyMTY0MzU0Nl19
+eyJoaXN0b3J5IjpbLTE4MTU3MDc1ODYsLTE3MjExOTA0MjEsLT
+E2MzkwODAyODcsLTg0OTM0NjQ5MSwxNzIxNjQzNTQ2XX0=
 -->
