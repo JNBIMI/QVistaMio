@@ -5,8 +5,8 @@ Ficheros del directorio:
 
 ---
 ### Documentación:
-*moduls.QvMapeta.md*  -->  Doc verbosa de QvMapeta
-comprobacionesQvMapeta.md  --> Cómo se conecta mapeta con mundo
+[Ir ](./moduls.QvMapeta.md)  a  ﻿moduls.QvMapeta.md
+comprobacionesQvMapeta.md  --> Cómo se conecta mapeta con mundo [Comprobaciones calculos](./comprobacionesQvMapeta.md)    
 
 ---
 ### Ficheros auxiliares:
@@ -24,5 +24,5 @@ comprobacionesQvMapeta.md  --> Cómo se conecta mapeta con mundo
 
 *CM.bas*  --> escrito por version de desarrollo de QvMapeta. Son los calculos que realiza el programa, transcritos de modo que se puedan representar en un DGNPara representar las pruebas:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTgzMzI4NDcsMTgyMTMzODg1Ml19
+eyJoaXN0b3J5IjpbNDM3MTEzNzU2LDE4MjEzMzg4NTJdfQ==
 -->
