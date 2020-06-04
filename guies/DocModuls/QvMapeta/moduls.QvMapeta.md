@@ -1,4 +1,4 @@
-02/06/2020  9:39 
+NOTA 02/06/2020  9:39 
 
 > He encontrado problemas para sincronizar ficheros de
 > D:\qVista\guies\DocModuls\QvMapeta con GitHub. Despues de bastantes
